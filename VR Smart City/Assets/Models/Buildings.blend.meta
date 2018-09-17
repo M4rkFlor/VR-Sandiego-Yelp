@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 4b2e4d22481c6ed4da7d41a4853cc60f
+timeCreated: 1509300983
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 6G-1
+    100002: 6G-2
+    100004: 6G-3
+    100006: 6G-4
+    100008: 6G-5
+    100010: 6G-6
+    100012: 6G-7
+    100014: 6I-1
+    100016: 6I-2
+    100018: 6I-3
+    100020: 6I-4
+    100022: 6I-5
+    100024: 6I-6
+    100026: 6I-7
+    100028: 6I-8
+    100030: 6I-9
+    100032: 6M-1
+    100034: 6M-2
+    100036: 6M-3
+    100038: 6M-4
+    100040: 6M-5
+    100042: 6M-6
+    100044: 6M-7
+    100046: 6M-8
+    100048: 6M-9
+    100050: 7G-1
+    100052: 7G-2
+    100054: 7G-4
+    100056: 7G-5
+    100058: 7G-6
+    100060: 7I-1
+    100062: 7I-2
+    100064: 7I-3
+    100066: 7I-4
+    100068: 7M-1
+    100070: 7M-2
+    100072: 7M-3
+    100074: 7M-4
+    100076: 8G-1
+    100078: 8G-2
+    100080: 8G-3
+    100082: 8I-1
+    100084: 8M-1
+    100086: 8M-2
+    100088: 8M-3
+    100090: 8M-4
+    100092: 8M-5
+    100094: 9G-1
+    100096: 9G-2
+    100098: 9G-3
+    100100: 9G-4
+    100102: 9G-5
+    100104: 9G-6
+    100106: 9G-7
+    100108: 9I-1
+    100110: 9M-1
+    100112: 9M-2
+    100114: 9M-3
+    100116: 9M-4
+    100118: 9M-5
+    100120: //RootNode
+    400000: 6G-1
+    400002: 6G-2
+    400004: 6G-3
+    400006: 6G-4
+    400008: 6G-5
+    400010: 6G-6
+    400012: 6G-7
+    400014: 6I-1
+    400016: 6I-2
+    400018: 6I-3
+    400020: 6I-4
+    400022: 6I-5
+    400024: 6I-6
+    400026: 6I-7
+    400028: 6I-8
+    400030: 6I-9
+    400032: 6M-1
+    400034: 6M-2
+    400036: 6M-3
+    400038: 6M-4
+    400040: 6M-5
+    400042: 6M-6
+    400044: 6M-7
+    400046: 6M-8
+    400048: 6M-9
+    400050: 7G-1
+    400052: 7G-2
+    400054: 7G-4
+    400056: 7G-5
+    400058: 7G-6
+    400060: 7I-1
+    400062: 7I-2
+    400064: 7I-3
+    400066: 7I-4
+    400068: 7M-1
+    400070: 7M-2
+    400072: 7M-3
+    400074: 7M-4
+    400076: 8G-1
+    400078: 8G-2
+    400080: 8G-3
+    400082: 8I-1
+    400084: 8M-1
+    400086: 8M-2
+    400088: 8M-3
+    400090: 8M-4
+    400092: 8M-5
+    400094: 9G-1
+    400096: 9G-2
+    400098: 9G-3
+    400100: 9G-4
+    400102: 9G-5
+    400104: 9G-6
+    400106: 9G-7
+    400108: 9I-1
+    400110: 9M-1
+    400112: 9M-2
+    400114: 9M-3
+    400116: 9M-4
+    400118: 9M-5
+    400120: //RootNode
+    2300000: 6G-1
+    2300002: 6G-2
+    2300004: 6G-3
+    2300006: 6G-4
+    2300008: 6G-5
+    2300010: 6G-6
+    2300012: 6G-7
+    2300014: 6I-1
+    2300016: 6I-2
+    2300018: 6I-3
+    2300020: 6I-4
+    2300022: 6I-5
+    2300024: 6I-6
+    2300026: 6I-7
+    2300028: 6I-8
+    2300030: 6I-9
+    2300032: 6M-1
+    2300034: 6M-2
+    2300036: 6M-3
+    2300038: 6M-4
+    2300040: 6M-5
+    2300042: 6M-6
+    2300044: 6M-7
+    2300046: 6M-8
+    2300048: 6M-9
+    2300050: 7G-1
+    2300052: 7G-2
+    2300054: 7G-4
+    2300056: 7G-5
+    2300058: 7G-6
+    2300060: 7I-1
+    2300062: 7I-2
+    2300064: 7I-3
+    2300066: 7I-4
+    2300068: 7M-1
+    2300070: 7M-2
+    2300072: 7M-3
+    2300074: 7M-4
+    2300076: 8G-1
+    2300078: 8G-2
+    2300080: 8G-3
+    2300082: 8I-1
+    2300084: 8M-1
+    2300086: 8M-2
+    2300088: 8M-3
+    2300090: 8M-4
+    2300092: 8M-5
+    2300094: 9G-1
+    2300096: 9G-2
+    2300098: 9G-3
+    2300100: 9G-4
+    2300102: 9G-5
+    2300104: 9G-6
+    2300106: 9G-7
+    2300108: 9I-1
+    2300110: 9M-1
+    2300112: 9M-2
+    2300114: 9M-3
+    2300116: 9M-4
+    2300118: 9M-5
+    3300000: 6G-1
+    3300002: 6G-2
+    3300004: 6G-3
+    3300006: 6G-4
+    3300008: 6G-5
+    3300010: 6G-6
+    3300012: 6G-7
+    3300014: 6I-1
+    3300016: 6I-2
+    3300018: 6I-3
+    3300020: 6I-4
+    3300022: 6I-5
+    3300024: 6I-6
+    3300026: 6I-7
+    3300028: 6I-8
+    3300030: 6I-9
+    3300032: 6M-1
+    3300034: 6M-2
+    3300036: 6M-3
+    3300038: 6M-4
+    3300040: 6M-5
+    3300042: 6M-6
+    3300044: 6M-7
+    3300046: 6M-8
+    3300048: 6M-9
+    3300050: 7G-1
+    3300052: 7G-2
+    3300054: 7G-4
+    3300056: 7G-5
+    3300058: 7G-6
+    3300060: 7I-1
+    3300062: 7I-2
+    3300064: 7I-3
+    3300066: 7I-4
+    3300068: 7M-1
+    3300070: 7M-2
+    3300072: 7M-3
+    3300074: 7M-4
+    3300076: 8G-1
+    3300078: 8G-2
+    3300080: 8G-3
+    3300082: 8I-1
+    3300084: 8M-1
+    3300086: 8M-2
+    3300088: 8M-3
+    3300090: 8M-4
+    3300092: 8M-5
+    3300094: 9G-1
+    3300096: 9G-2
+    3300098: 9G-3
+    3300100: 9G-4
+    3300102: 9G-5
+    3300104: 9G-6
+    3300106: 9G-7
+    3300108: 9I-1
+    3300110: 9M-1
+    3300112: 9M-2
+    3300114: 9M-3
+    3300116: 9M-4
+    3300118: 9M-5
+    4300000: 7I-1
+    4300002: 6I-5
+    4300004: 8G-3
+    4300006: 6M-9
+    4300008: 7G-2
+    4300010: 9M-5
+    4300012: 9G-6
+    4300014: 6M-1
+    4300016: 6I-4
+    4300018: 9M-4
+    4300020: 6I-2
+    4300022: 6I-3
+    4300024: 6M-7
+    4300026: 6M-3
+    4300028: 9G-1
+    4300030: 6G-7
+    4300032: 6I-9
+    4300034: 6I-8
+    4300036: 6I-1
+    4300038: 7G-1
+    4300040: 6I-6
+    4300042: 7I-4
+    4300044: 7G-4
+    4300046: 8G-2
+    4300048: 8M-5
+    4300050: 6G-5
+    4300052: 9I-1
+    4300054: 7G-5
+    4300056: 9G-4
+    4300058: 6M-6
+    4300060: 6M-4
+    4300062: 7I-2
+    4300064: 7M-4
+    4300066: 6G-1
+    4300068: 8G-1
+    4300070: 6G-6
+    4300072: 9G-7
+    4300074: 9G-2
+    4300076: 6M-2
+    4300078: 6G-2
+    4300080: 7M-2
+    4300082: 9M-2
+    4300084: 8M-4
+    4300086: 8M-1
+    4300088: 9G-5
+    4300090: 9M-1
+    4300092: 6I-7
+    4300094: 6M-8
+    4300096: 6M-5
+    4300098: 7M-1
+    4300100: 8M-2
+    4300102: 7G-6
+    4300104: 8M-3
+    4300106: 7M-3
+    4300108: 6G-4
+    4300110: 9M-3
+    4300112: 9G-3
+    4300114: 8I-1
+    4300116: 7I-3
+    4300118: 6G-3
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: a71b079c49b624842bfeb5c390fcc4e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 973f6d30008f60248aa9c4f45f2c3fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__samyang_85mm_f12_texture_in_old_brick_1479492380_jpg
+    second: {fileID: 2100000, guid: 053c23de45827dd4f943f316bf8a5e6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__Old-Cinder-Block-2_jpg
+    second: {fileID: 2100000, guid: 885000236af96ee4dacafd514d214718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: 2ff9c710d0f4925489713925a016b333, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003__Old-Cinder-Block-2_jpg
+    second: {fileID: 2100000, guid: 885000236af96ee4dacafd514d214718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003__Stone_Wall-022_jpg
+    second: {fileID: 2100000, guid: 26fcdc4d9d2130445a83c29447c2b149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003__decorative_stone_look_wall_panels__wall_stone_decor_makiperacom
+    second: {fileID: 2100000, guid: bf8a55a9036344f499d7c1ab7323ae18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: f8a9dbf27698df1458116831cc5e46d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004__decorative_stone_look_wall_panels__wall_stone_decor_makiperacom
+    second: {fileID: 2100000, guid: bf8a55a9036344f499d7c1ab7323ae18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: a2bf5ea579b5b594fb39d698164da1be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005__decorative_stone_look_wall_panels__wall_stone_decor_makiperacom
+    second: {fileID: 2100000, guid: bf8a55a9036344f499d7c1ab7323ae18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__Stone_Wall-022_jpg
+    second: {fileID: 2100000, guid: 26fcdc4d9d2130445a83c29447c2b149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof
+    second: {fileID: 2100000, guid: bf8a55a9036344f499d7c1ab7323ae18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof__Old-Cinder-Block-2_jpg
+    second: {fileID: 2100000, guid: d6857e119a41bc144bcaba5c4a147ec3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof__Stone_Wall-022_jpg
+    second: {fileID: 2100000, guid: 1f55292fc4c7ea240a82702e65b37caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof__brick_photo_two_toned_half_side_red_yellow_stock_wallpaper_jpg
+    second: {fileID: 2100000, guid: 5c3566f4d205bb643a7f9f99eecf402f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof__decorative_stone_look_wall_panels__wall_stone_decor_makiperacom
+    second: {fileID: 2100000, guid: bf8a55a9036344f499d7c1ab7323ae18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof__samyang_85mm_f12_texture_in_old_brick_1479492380_jpg
+    second: {fileID: 2100000, guid: 053c23de45827dd4f943f316bf8a5e6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: 0466dd368a4784e48babef7c503b517b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_001
+    second: {fileID: 2100000, guid: f9c0dc8c0787ff04fa18ad4255bd0c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_001__Stone_Wall-022_jpg
+    second: {fileID: 2100000, guid: 26fcdc4d9d2130445a83c29447c2b149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_002__Stone_Wall-022_jpg
+    second: {fileID: 2100000, guid: 26fcdc4d9d2130445a83c29447c2b149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall__Stone_Wall-022_jpg
+    second: {fileID: 2100000, guid: 26fcdc4d9d2130445a83c29447c2b149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall__decorative_stone_look_wall_panels__wall_stone_decor_makiperacom
+    second: {fileID: 2100000, guid: bf8a55a9036344f499d7c1ab7323ae18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall__samyang_85mm_f12_texture_in_old_brick_1479492380_jpg
+    second: {fileID: 2100000, guid: 053c23de45827dd4f943f316bf8a5e6a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
