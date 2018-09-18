@@ -1,4 +1,3 @@
-#VR Sandiego
 Created a VR Smart City application in Unity and used Yelp Fusion Api ,Blender and Google VR SDK in a 24h Hackathon with a team of 5.
 
 **What this apllication does:** Target a building and information from the yelp fusion api will be provided about that building.
